@@ -2,6 +2,8 @@ export enum ShapeType {
   AIRFOIL = 'AIRFOIL',
   CYLINDER = 'CYLINDER',
   PLATE = 'PLATE',
+  PARAGLIDER = 'PARAGLIDER',
+  POD = 'POD',
   CUSTOM = 'CUSTOM'
 }
 
