@@ -1,0 +1,5 @@
+{
+  "name": "airflow_simulation",
+  "description": "A virtual wind tunnel enabling real-time airflow simulation around custom shapes with Gemini-powered aerodynamic analysis.",
+  "requestFramePermissions": []
+}
